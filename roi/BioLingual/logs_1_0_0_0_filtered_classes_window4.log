@@ -1,0 +1,2 @@
+lr = 1e-05
+{"epoch": 0, "train": {"loss": 11.16000621287309, "metric": 0.8260570315818491, "metric_distance": 0.8260570315818491, "metric_speed": 1.0, "metric_activity": 1.0, "metric_type": 1.0}, "valid": {"loss": 11.141609990332425, "metric": 0.7674421658105094, "metric_distance": 0.7674421658105094, "metric_speed": 1.0, "metric_activity": 1.0, "metric_type": 1.0}}

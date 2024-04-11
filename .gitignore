@@ -1,0 +1,4 @@
+roi/BioLingual/model/*
+roi/BioLingual/output/*
+roi/BioLingual/processor/*
+roi/BioLingual/test_model/*
